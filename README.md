@@ -88,5 +88,3 @@ You can type `quit` anytime to exit the game.
 ## 📃 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
-
-Let me know if you want this to be converted into an interactive web version too!

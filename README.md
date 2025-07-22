@@ -16,7 +16,7 @@ This is a simple **command-line word guessing game**, similar to Hangman. A rand
 ## 📂 File Structure
 
 ```
-word_guess.py          # Main game script
+hangman.py          # Main game script
 wordlist.py            # File containing a list of words (list name: abcd)
 README.md              # This file
 ```
